@@ -1,0 +1,58 @@
+[
+  {
+    "type": "app_bar"
+  },
+  {
+    "type": "flat_button",
+    "label": "Default"
+  },
+  {
+    "type": "flat_button",
+    "label": "Primary",
+    "primary": true
+  },
+  {
+    "type": "flat_button",
+    "label": "Secondary",
+    "secondary": true
+  },
+  {
+    "type": "flat_button",
+    "label": "Disabled",
+    "disabled": true
+  },
+  {
+    "type": "flat_button",
+    "label": "Full width",
+    "fullWidth": true
+  },
+  {
+    "type": "flat_button",
+    "label": "Label before",
+    "labelPosition": "before",
+    "primary": true,
+    "icon": "android",
+    "iconColor": "#bae871"
+  },
+  {
+    "type": "raised_button",
+    "label": "Primary"
+  },
+  {
+    "type": "icon_button",
+    "style": {
+      "padding": 14
+    },
+    "icon": "home"
+  },
+  {
+    "type": "floating_action_button",
+    "icon": "home"
+  },
+  {
+    "type": "text",
+    "floatingLabelText": "Name",
+    "name": "name",
+    "hintText": "Enter Name"
+  }
+]

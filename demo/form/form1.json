@@ -1,0 +1,19 @@
+{
+  "type": "form",
+  "webhook": {
+    "url": "https://devpanel.workex.xyz/api/",
+    "method": "POST"
+  },
+  "config": [
+    {
+      "type": "text",
+      "floatingLabelText": "Name",
+      "name": "name",
+      "hintText": "Enter Name"
+    },
+    {
+      "type": "raised_button",
+      "label": "Submit"
+    }
+  ]
+}
